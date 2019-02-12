@@ -6,6 +6,9 @@ Repo for "Workflows for gridded climate datasets" waterhackweek tutorial
 
 - The conda environment file `environment.yml` doesn't install jupyter. It assumes that you already have conda installed (or miniconda) and a working setup for running jupyter notebooks. To create a conda environment named `whw_gridded_data` from this file: `conda env create -f environment.yml`
 
+- To install that environment as a kernel in your jupyter setup:
+  `conda activate whw_gridded_data; ipython kernel install --user --name whw_gridded_data`
+
 ### Install miniconda and setup jupyter lab
 Steps taken from https://geohackweek.github.io/preliminary/01-conda-tutorial/
 Instructions for MacOSX (and Windows?) are also available there.
