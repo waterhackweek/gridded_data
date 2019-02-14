@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mkdir data
+cd data
+wget https://www.dropbox.com/s/8474ca7wgfvzird/b.e11.B20TRC5CNBDRD.f09_g16.001.clm2.h0.TBOT.185001-200512.nc
+wget https://www.dropbox.com/s/gu6lfik6hlgzrdw/b.e11.BRCP26C5CNBDRD.f09_g16.1pt5degC.001.clm2.h0.TBOT.200601-210012.nc
+
+#EOF
