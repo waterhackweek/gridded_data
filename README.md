@@ -6,7 +6,7 @@ Repo for "Workflows for gridded climate datasets" waterhackweek tutorial
 
 By far the easiest way to run the notebooks that are part of this tutorial is to click the **launch binder** button. This will use the binder service made available by [pangeo](https://binder.pangeo.io) to create a docker container based on this repository and launch it in the cloud. Don't worry if this does not mean anything to you. Just hit the button:
  
-[![Binder](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/bartnijssen/gridded_data/binder)
+[![Binder](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/waterhackweek/gridded_data/binder)
 
 If you do want to install the notebooks locally or in your , then by all means follow the instructions below. In that case you want to use the `master` branch rather than the binder branch.
 
