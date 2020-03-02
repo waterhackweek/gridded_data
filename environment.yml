@@ -12,3 +12,4 @@ dependencies:
   - xarray
   - rasterio
   - dask
+  - boto3
