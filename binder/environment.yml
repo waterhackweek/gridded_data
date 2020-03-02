@@ -13,3 +13,4 @@ dependencies:
   - rasterio
   - dask
   - netcdf4
+  - boto3
